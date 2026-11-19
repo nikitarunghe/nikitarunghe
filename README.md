@@ -45,21 +45,8 @@ Interested in building secure, scalable backend systems, designing REST APIs, an
 - Exploring AI-based code generation using Spring AI.
 - Planning event-driven communication and payment integration.
 
-### 2. Distributed Payment System
-**Java | Spring Boot | Microservices | Kafka | Docker**
 
-🚧 Status: Planned
 
-- Exploring distributed payment processing architecture.
-- Designing payment workflows and transaction handling.
-- Learning event-driven communication using Kafka.
-- Exploring microservices design patterns.
-
-### 3. Spring Boot Bakery Application
-**Java | Spring Boot | REST APIs**
-
-- Developing a backend application using Spring Boot.
-- Practising REST API development and backend fundamentals.
 
 ## 💼 Experience
 
@@ -86,6 +73,7 @@ Shri Govindram Seksaria Institute of Technology and Science (SGSITS), Indore
 - GitHub Copilot Certification
 - Web Development Bootcamp – Udemy
 - Frontend Development Internship – The Sparks Foundation
+- Claude Developer
 
 ## 🤝 Connect With Me
 
